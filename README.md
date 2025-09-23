@@ -1,2 +1,1 @@
-# joseph.forson-dialy-reports
-Handson on my daily insights about python
+This repository contains my daily reports for the PyPro-SCiDaS course.
