@@ -1,0 +1,92 @@
+  193  ls
+  194  cd Desktop/
+  195  ls
+  196  cd python_course/
+  197  ls
+  198  cd notebooks_lecture_notes/
+  199  ls
+  200  cd simplestats/
+  201  git init
+  202  ls
+  203  ls -a
+  204  ls -A
+  205  git config --global user.email
+  206  cd .git
+  207  ls -a
+  208  geddit description
+  209  gedit description
+  210  tree
+  211  git status
+  212  cd ..
+  213  git status
+  214  touch README.md
+  215  gedit README.md 
+  216  git status
+  217  git add README.md 
+  218  ls
+  219  git status
+  220  ls
+  221  tree
+  222  tree .git
+  223  tree .git/HEAD 
+  224  git commit -am "First commit "
+  225  git status
+  226  tree
+  227  git log
+  228  tree .git
+  229  tree .git/HEAD 
+  230  git log --oneline
+  231  git commit --amend -m "First commit: README.md"
+  232  git log
+  233  diff
+  234  git diff
+  235  ls
+  236  git diff --stat
+  237  gedit README.md 
+  238  git diff
+  239  git diff HEAD 
+  240  history 
+  241  git diff --cached
+  242  git log
+  243  git -3
+  244  History
+  245  history
+  246  git status
+  247  git add README.md 
+  248  git status
+  249  git checkout -- README.md
+  250  git status 
+  251  touch READYOU.md
+  252  git status
+  253  git reset README.md
+  254  git status
+  255  git checkout -- README.md
+  256  git status
+  257  git add READYOU.md 
+  258  git commit -am "updating the readme"
+  259  git rm READYOU.md 
+  260  ls
+  261  git log
+  262  git status
+  263  rm README.md 
+  264  git checkout -- README.md
+  265  git status
+  266  git log
+  267  git show --name-status HEAD
+  268  git add README.md 
+  269  git status
+  270  git checkout -- .Rhistory
+  271  git reset .Rhistory
+  272  git status 
+  273  git checkout -- Rhitory
+  274  git checkout -- .Rhitory
+  275  git checkout -- .Rhistory
+  276  git reset .Rhistory
+  277  git status
+  278  git add README.md 
+  279  git commit -am "adding the README.md"
+  280  git diff
+  281  git log
+  282  git log --pretty=oneline 
+  283  history
+  284  history > joseph.forson_Report.txt
